@@ -1,0 +1,27 @@
+{
+  "terminalLabel": "inuyume's Personal Terminal",
+  "nickname": {
+    "zh": "犬梦",
+    "ja": "犬夢「いぬゆめ」",
+    "en": "inuyume"
+  },
+  "avatarBadge": "01",
+  "avatarLabel": "SENSEI",
+  "bioLines": [
+    "为世界的美好而战",
+    "愿此行终抵群星"
+  ],
+  "subtext": "",
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/inuyume",
+      "variant": "primary"
+    },
+    {
+      "label": "Blog",
+      "url": "https://blog.fiveqm.com",
+      "variant": "secondary"
+    }
+  ]
+}
